@@ -1,0 +1,307 @@
+/**Updated CSS for the Intro section with background image*/
+.home {
+  background-image: url('https://st4.depositphotos.com/30440304/40260/i/450/depositphotos_402601718-stock-photo-abstract-background-colorful-wavy-design.jpg'); /* Replace with the actual URL of your background image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgb(255, 255, 255);
+}
+
+.card-body {
+  background: rgb(216, 205, 205); /* Semi-transparent background for better readability */
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.image {
+  border-radius: 50%; /* Make profile image round */
+}
+
+.icon a {
+  margin-right: 10px;
+}
+
+/* Existing CSS */
+.app-bar {
+  margin: 0px 20px;
+  background-color: #215740af;
+}
+.card0 {
+  height: 700px;
+  background-color: #763879;
+}
+.image {
+  height: 480px;
+  width: 500px;
+}
+.content {
+  margin: 150px 0px 0px 130px;
+  padding: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.content h1 {
+  font-weight: bold;
+  color: #501818;
+}
+.content p {
+  color: #384444;
+  margin-top: 20px;
+}
+.icon {
+  margin-top: 80px;
+}
+.icon a {
+  padding: 10px;
+}
+.abo {
+  text-align: center;
+}
+.abo p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  color: #2c2c3a;
+}
+.about {
+  text-align: center;
+  font-weight: bold;
+  color: black;
+  background-color: #cacca9;
+}
+.about-intro {
+  line-height: 40px;
+}
+.resume {
+  text-align: center;
+  margin-bottom: 80px;
+}
+.resume a {
+  text-decoration: none;
+}
+.bar1 {
+  width: 90%;
+  background-color: #729346;
+}
+.bar2 {
+  width: 90%;
+  background-color: #679c9c;
+}
+.bar3 {
+  width: 85%;
+  background-color: #7984a8;
+}
+.bar4 {
+  width: 80%;
+  background-color: #70764e;
+}
+.bar5 {
+  width: 85%;
+  background-color: #0b4444;
+}
+.bar6 {
+  width: 80%;
+  background-color: #6a5b8a;
+}
+.bar7 {
+  width: 70%;
+  background-color: #34294d;
+}
+.bar8 {
+  width: 65%;
+  background-color: #588097;
+}
+.bar9 {
+  width: 95%;
+  background-color: #d9534f;
+}
+.bar10 {
+  width: 90%;
+  background-color: #5bc0de;
+}
+.bar11 {
+  width: 85%;
+  background-color: #f0ad4e;
+}
+.bar12 {
+  width: 75%;
+  background-color: #5cb85c;
+}
+.bar13 {
+  width: 80%;
+  background-color: #428bca;
+}
+.bar14 {
+  width: 90%;
+  background-color: #f7a35c;
+}
+.bar15 {
+  width: 85%;
+  background-color: #8e44ad;
+}
+.progress {
+  height: 40px;
+}
+.card2 {
+  text-align: center;
+  height: 800px;
+  background-color: #a3b6b4;
+}
+.skill {
+  background-color: #506c83;
+  text-align: center;
+}
+.card3 {
+  text-align: center;
+  background-color: #638989;
+}
+.project .card-img-top {
+  width: 100%;
+  height: 200px; /* Set a fixed height for the image */
+  object-fit: cover; /* Ensure the image covers the container without distortion */
+}
+.head {
+  text-align: center;
+  color: #5a4a23;
+  font-weight: bold;
+}
+.cont {
+  text-align: center;
+  margin: 20px 0px;
+}
+.contact input,
+label,
+textarea {
+  width: 50%;
+}
+.card4 {
+  text-align: center;
+  background-color: #9f9483;
+}
+.side-card {
+  width: 30%;
+  position: absolute;
+  left: 800px;
+  bottom: 200px;
+}
+.side-card h6,
+p {
+  color: #997c51;
+}
+.margin {
+  margin: 50px 10px 0px 10px;
+}
+.contact li {
+  margin-top: 10px;
+}
+.icon1 {
+  margin-top: 50px;
+}
+.icon1 a {
+  padding: 10px;
+}
+.footer {
+  height: 30px;
+  text-align: center;
+  margin-top: 70px;
+  color: #272728;
+}
+
+/* Additional Styles for the Contact Section */
+.contact-section {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.contact-form, .side-card {
+  flex: 1;
+  min-width: 300px;
+  display: flex;
+}
+
+.contact-form {
+  margin-right: 20px;
+}
+/* Updated CSS for the Contact section */
+.contact-section {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.contact-form {
+  flex: 1;
+  min-width: 300px;
+}
+
+.side-card {
+  width: 30%;
+  max-width: 300px; /* Limit maximum width of side card */
+  margin-left: 20px; /* Add margin to separate from contact form */
+}
+
+.side-card h6,
+.side-card p {
+  color: #333; /* Set text color */
+}
+
+@media screen and (max-width: 768px) {
+  .contact-section {
+    flex-direction: column; /* Stack elements vertically on smaller screens */
+    align-items: center; /* Center align elements */
+  }
+}
+
+/* Updated CSS for the Intro section */
+.home {
+  background-color: #f5f5f5; /* Set background color */
+  padding: 50px 0; /* Add padding for spacing */
+}
+
+.container {
+  padding: 20px; /* Add padding to the container */
+}
+
+
+
+.image {
+  width: 350px; /* Set width for the image */
+  height: 400px; /* Set height for the image */
+  border-radius: 50%; /* Make the image circular */
+  margin: 0 auto 10px; /* Center the image horizontally and add margin bottom */
+  display: inline-block; /* Ensure the image is block-level for margin to work */
+}
+
+.card-title {
+  font-size: 32px; /* Increase font size for title */
+  font-weight: bold; /* Add bold font weight */
+  margin-bottom: 20px; /* Add margin bottom for spacing */
+}
+
+.card-text {
+  font-size: 18px; /* Set font size for text */
+  color: #333; /* Set text color */
+  margin-bottom: 15px; /* Add margin bottom for spacing */
+}
+
+.icon {
+  margin-top: 20px; /* Add margin top for spacing */
+}
+
+.link {
+  text-decoration: none; /* Remove underline from links */
+  margin-right: 10px; /* Add margin between links */
+}
+
+/* Social media icons */
+.link svg {
+  font-size: 28px; /* Set font size for icons */
+  color: #333; /* Set icon color */
+  transition: color 0.3s ease; /* Add smooth color transition */
+}
+
+.link:hover svg {
+  color: #007bff; /* Change icon color on hover */
+}
