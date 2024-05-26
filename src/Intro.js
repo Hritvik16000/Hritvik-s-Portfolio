@@ -16,9 +16,9 @@ export default function Intro() {
                     </div>
                     <div className="col-md-6">
                         <div className="card-body">
-                            <h1 className="card-title">I'm Hritvik Dadhich</h1>
+                            <h1 className="card-title">Hello my name is Hritvik Dadhich</h1>
                             <p className="card-text">Data Analyst</p>
-                            <p className="card-text">I'm a M.Sc in Data Science From Cardiff Metropolitan University</p>
+                            <p className="card-text">M.Sc Data Science From Cardiff Metropolitan University</p>
                             <div className="icon">
                                 <a className="link" href="https://www.linkedin.com/feed/" target="_blank" rel="noreferrer">
                                     <IconButton>
