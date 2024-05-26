@@ -169,7 +169,7 @@ export default function Project() {
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="" target="_blank"
+                  <a href="https://github.com/Hritvik16000/Secure-file-sharing---Blockchain" target="_blank"
                     className="text-muted">
                     <IconButton>
                       <FileCopyIcon style={{color: "grey"}}/>
