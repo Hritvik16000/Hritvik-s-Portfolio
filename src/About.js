@@ -14,7 +14,7 @@ successfully lead tech venture, FutureGaming.io. I’m skilled at making scalabl
   </div>
   <div className="resume">
   <a  href="https://drive.google.com/file/d/1DLH08JYuitGVxcoNHP5kcrYPos0tXGVA/view?usp=sharing"
-  target="_blank">
+  target="_blank" rel="noreferrer">
                                 <IconButton >
                                     <InsertDriveFileIcon color="secondary"/>
                                     <span style={{color: "Black"}}>Resume</span>
