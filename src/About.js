@@ -13,7 +13,7 @@ export default function About(){
         I thrive on crafting scalable web solutions and am eager to bring my expertise to your team.</p>
   </div>
   <div className="resume">
-  <a  href="https://drive.google.com/file/d/1DLH08JYuitGVxcoNHP5kcrYPos0tXGVA/view?usp=sharing"
+  <a  href="https://drive.google.com/file/d/1YIdrynt2oOqHdPAq61fvoaQlTcM5w5Pi/view?usp=sharing"
   target="_blank" rel="noreferrer">
                                 <IconButton >
                                     <InsertDriveFileIcon color="secondary"/>
