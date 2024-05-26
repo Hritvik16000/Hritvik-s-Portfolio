@@ -20,13 +20,13 @@ export default function Project() {
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="https://cheerful-churros-0c6e30.netlify.app/" target="_blank"
+                  <a href="https://cheerful-churros-0c6e30.netlify.app/" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <FileCopyIcon style={{color: "grey"}}/>
                     </IconButton>
                   </a>
-                  <a href="https://github.com/Hritvik16000/Capstone-frontend" target="_blank"
+                  <a href="https://github.com/Hritvik16000/Capstone-frontend" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <GitHubIcon style={{color: "grey"}}/>
@@ -47,13 +47,13 @@ export default function Project() {
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="https://whimsical-khapse-7c5b2a.netlify.app" target="_blank"
+                  <a href="https://whimsical-khapse-7c5b2a.netlify.app" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <FileCopyIcon style={{color: "grey"}}/>
                     </IconButton>
                   </a>
-                  <a href="https://github.com/Hritvik16000/Notes-banao" target="_blank"
+                  <a href="https://github.com/Hritvik16000/Notes-banao" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <GitHubIcon style={{color: "grey"}}/>
@@ -75,13 +75,13 @@ export default function Project() {
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="https://vermillion-creponne-456934.netlify.app" target="_blank"
+                  <a href="https://vermillion-creponne-456934.netlify.app" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <FileCopyIcon style={{color: "grey"}}/>
                     </IconButton>
                   </a>
-                  <a href="https://github.com/Hritvik16000/Movie-app-" target="_blank"
+                  <a href="https://github.com/Hritvik16000/Movie-app-" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <GitHubIcon style={{color: "grey"}}/>
@@ -104,13 +104,13 @@ export default function Project() {
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="https://gleaming-syrniki-ada1de.netlify.app" target="_blank"
+                  <a href="https://gleaming-syrniki-ada1de.netlify.app" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <FileCopyIcon style={{color: "grey"}}/>
                     </IconButton>
                   </a>
-                  <a href="https://github.com/Hritvik16000/Day-32-Task-Library-Management-" target="_blank"
+                  <a href="https://github.com/Hritvik16000/Day-32-Task-Library-Management-" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <GitHubIcon style={{color: "grey"}}/>
@@ -132,13 +132,13 @@ export default function Project() {
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="https://github.com/Hritvik16000/NBA-All-Star-prediction-Model-Using-Machine-learning" target="_blank"
+                  <a href="https://github.com/Hritvik16000/NBA-All-Star-prediction-Model-Using-Machine-learning" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <FileCopyIcon style={{color: "grey"}}/>
                     </IconButton>
                   </a>
-                  <a href="https://github.com/Hritvik16000/NBA-All-Star-prediction-Model-Using-Machine-learning/blob/main/St20249004_CIS7017_YR_23%20Technology%20Dissertation_YR_23.py" target="_blank"
+                  <a href="https://github.com/Hritvik16000/NBA-All-Star-prediction-Model-Using-Machine-learning/blob/main/St20249004_CIS7017_YR_23%20Technology%20Dissertation_YR_23.py" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <GitHubIcon style={{color: "grey"}}/>
@@ -169,13 +169,13 @@ export default function Project() {
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
-                  <a href="https://github.com/Hritvik16000/Secure-file-sharing---Blockchain" target="_blank"
+                  <a href="https://github.com/Hritvik16000/Secure-file-sharing---Blockchain/tree/master" target="_blank"rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <FileCopyIcon style={{color: "grey"}}/>
                     </IconButton>
                   </a>
-                  <a href="https://github.com/Hritvik16000/Secure-file-sharing---Blockchain/tree/master" target="_blank"
+                  <a href="https://github.com/Hritvik16000/Secure-file-sharing---Blockchain/tree/master" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <GitHubIcon style={{color: "grey"}}/>
