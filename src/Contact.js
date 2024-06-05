@@ -43,7 +43,7 @@ export default function Contact(){
     </li>
     <li className="list-group-item">
        <h6>Email</h6>
-        <p>Hritvik16000@gmail.com</p>
+        <p>Hritvik.sajo@gmail.com</p>
     </li>
     <li className="list-group-item">
         <h6>Contact No</h6>
