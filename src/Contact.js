@@ -65,7 +65,7 @@ export default function Contact(){
                                 <IconButton>
                                     <WhatsAppIcon color="success"/>
                                 </IconButton></a>
-                                <a className="link" href="mailto: Hritvik16000@gmail.com" 
+                                <a className="link" href="mailto: Hritvik.sajo@gmail.com" 
                                 target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <EmailIcon color="error"/>
