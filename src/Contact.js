@@ -50,7 +50,7 @@ export default function Contact(){
         <p>+44-7464341451</p>
     </li>
     <div className="icon1">
-                            <a className="link" href="https://www.linkedin.com/in/hritvik-dadhich-1a5a7b30a/?trk=public_profile-settings_edit-profile-content&originalSubdomain=uk"
+                            <a className="link" href="https://www.linkedin.com/in/hritvik-dadhich/"
                             target="_blank" rel="noreferrer">
                                 <IconButton>
                                     <LinkedInIcon color="primary"/>
