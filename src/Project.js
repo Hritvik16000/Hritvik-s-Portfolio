@@ -16,7 +16,7 @@ export default function Project() {
               <div className="card-body">
                 <h5 className="card-title head">AirBnb-Clone</h5>
                 <p className="card-text cont">Technologies used: HTML, CSS, Javascript, React.js, node.js</p>
-                <p className="card-text cont">AirBnb clone this app is used to book hotels and hostels for travellers and wanderers.</p>
+                <p className="card-text cont">AirBnb clone this app is used to book hotels and hostels for travellers and wanderers</p>
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
@@ -71,7 +71,7 @@ export default function Project() {
                 <h5 className="card-title head">Movie-App</h5>
                 <p className="card-text cont">Technologies used: HTML, CSS, React js</p>
                 <p className="card-text cont">In Movie-app you can add or delete the movie you want,you will 
-                get movie details with trailer and you can like or dislike the movie.</p>
+                get movie details with trailer and you can like or dislike the movie</p>
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
@@ -128,7 +128,7 @@ export default function Project() {
                 <h5 className="card-title head">NBA ALL-STAR Prediction Model</h5>
                 <p className="card-text cont">Technologies used: Python, Matplotlib, SK-learn, Regression Model</p>
                 <p className="card-text cont">Precisely Predicts NBA All-star squad as per data provided in the model 
-                with an accuracy of 95% solely based on players performance.</p>
+                with an accuracy of 95% solely based on players performance</p>
               </div>
               <div className="card-footer">
                 <div className="d-flex justify-content-between">
@@ -139,6 +139,35 @@ export default function Project() {
                     </IconButton>
                   </a>
                   <a href="https://github.com/Hritvik16000/NBA-All-Star-prediction-Model-Using-Machine-learning/blob/main/St20249004_CIS7017_YR_23%20Technology%20Dissertation_YR_23.py" target="_blank" rel="noreferrer"
+                    className="text-muted">
+                    <IconButton>
+                      <GitHubIcon style={{color: "grey"}}/>
+                    </IconButton>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+          {/* New Project Card */}
+          <div className="col">
+            <div className="card h-100">
+              <img src="https://i.ytimg.com/vi/OJxEcs0w_kE/maxresdefault.jpg" 
+              className="card-img-top" alt="InSight-Loom"></img>
+              <div className="card-body">
+                <h5 className="card-title head">InSight-Loom</h5>
+                <p className="card-text cont">Technologies used: Python, NLP, Streamlit</p>
+                <p className="card-text cont">A web application to analyze and visualize the sentiment of text data from various sources. 
+                Implemented NLP techniques to process and analyze large datasets for sentiment trends.</p>
+              </div>
+              <div className="card-footer">
+                <div className="d-flex justify-content-between">
+                  <a href="https://hritvik16000-insight--loom-main-qtwgea.streamlit.app/" target="_blank" rel="noreferrer"
+                    className="text-muted">
+                    <IconButton>
+                      <FileCopyIcon style={{color: "grey"}}/>
+                    </IconButton>
+                  </a>
+                  <a href="https://github.com/Hritvik16000/InSight--Loom/tree/master" target="_blank" rel="noreferrer"
                     className="text-muted">
                     <IconButton>
                       <GitHubIcon style={{color: "grey"}}/>
