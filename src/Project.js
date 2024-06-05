@@ -151,7 +151,7 @@ export default function Project() {
           {/* New Project Card */}
           <div className="col">
             <div className="card h-100">
-              <img src="https://i.ytimg.com/vi/OJxEcs0w_kE/maxresdefault.jpg" 
+              <img src="/main.png" 
               className="card-img-top" alt="InSight-Loom"></img>
               <div className="card-body">
                 <h5 className="card-title head">InSight-Loom</h5>
